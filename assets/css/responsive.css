@@ -683,7 +683,7 @@
 .testimonial-style1-content_bg {
     height: 175px;
     width: 320px;
-    background-size: contain;
+    background-size: cover; /* contain;*/
     margin: 0 auto;
 }
 .testimonial-style1-content .inner-content {
