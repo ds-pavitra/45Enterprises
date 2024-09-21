@@ -119,10 +119,11 @@
     position: relative;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     align-items: flex-end;
     flex-wrap: wrap;
     padding-bottom: 61px;
+    text-align: center;
 }
 .service-style2_top_box .sec-title{
     position: relative;

@@ -267,20 +267,20 @@
     font-family: 'Open Sans', sans-serif;
     margin: 0 0 16px;
 }
-/* .about-style3-content-box .inner-content ul {
+.about-style3-content-box .inner-content ul {
     position: relative;
     display: block;
     overflow: hidden;
     padding: 43px 50px 43px;
     margin-top: 43px;
-} */
-.about-style3-content-box .inner-content ul {
+}
+/* .about-style3-content-box .inner-content ul {
     position: relative;
     display: block;
     overflow: hidden;
     padding: 0px;
     margin-top: 43px;
-}
+} */
 .about-style3-content-box .inner-content ul li {
     position: relative;
     display: block;
@@ -294,7 +294,7 @@
 .about-style3-content-box .inner-content ul li span {
     position: relative;
     top: 2px;
-    color: #ffffff;
+    color: #df3821;  /*#ffffff;*/
     font-size: 24px;
 }
 .about-style3-content-box .inner-content ul li:last-child{
@@ -334,7 +334,7 @@
 .about-style4-content-box {
     margin: 0;
     padding-top: 50px;
-    padding-bottom: 90px;
+    /* padding-bottom: 90px; */
 }
 
 
@@ -429,6 +429,6 @@
     One Page Scrool Css
 =============================================
 ***/
-.about-style4-area.pdbottom120{
+/* .about-style4-area.pdbottom120{
     padding-bottom: 120px;
-}
+} */
