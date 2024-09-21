@@ -274,7 +274,9 @@
     width: 150px;
 }
 
-
+.mobHide{
+    display: none !important;
+}
 
 
 
@@ -578,7 +580,9 @@
     margin-bottom: 40px;
 }
 
-
+.mobHide{
+    display: none !important;
+}
 
 
 
@@ -1165,7 +1169,9 @@
     display: none;
 }
 
-
+.mobHide{
+    display: none !important;
+}
 
 
 
@@ -1229,13 +1235,15 @@
 .mobile-nav-toggler .icon-bar {
     position: relative;
     display: block;
-    background: #ffffff;
-    height: 2px;
+    background: #000;
+    height: 3px;
     width: 30px;
     margin: 7px 5px;
 } 
     
-  
+.mobHide{
+    display: none !important;
+}
     
 }
 
@@ -1607,7 +1615,9 @@
 .main-slider.style4 .content .btns-box {
     padding-top: 45px;
 }
-
+.mobHide{
+    display: none !important;
+}
 
 
 
@@ -1732,7 +1742,9 @@
     padding-top: 45px;
 }
 
-
+.mobHide{
+    display: none !important;
+}
 
 
 

@@ -1013,7 +1013,7 @@ li {
     cursor: pointer;
     transition: all 200ms linear;
     transition-delay: 0.1s;
-    z-index: 999999999;
+    z-index: 99;
 }
 
 .scroll-top span {}
@@ -1488,7 +1488,7 @@ select:focus {
     height: 100%;
     max-height: 100%;
     overflow-y: auto;
-    background: #000000;
+    background: #ffffff;
     padding: 0px 0px;
     z-index: 5;
     opacity: 0;
@@ -1516,7 +1516,7 @@ select:focus {
     position: absolute;
     top: 10px;
     right: 10px;
-    color: #ffffff;
+    color: #000000;
     font-size: 30px;
     line-height: 30px;
     width: 30px;
@@ -1568,7 +1568,7 @@ select:focus {
     position: relative;
     display: block;
     padding: 10px 25px;
-    color: #ffffff;
+    color: #000000;
     font-size: 15px;
     line-height: 24px;
     font-weight: 600;
