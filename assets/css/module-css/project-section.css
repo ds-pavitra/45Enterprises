@@ -101,6 +101,7 @@
     line-height: 65px;
     text-align: center;
     z-index: 3;
+    display: none;
 }
 
 .single-project-style1 .img-holder .inner{
