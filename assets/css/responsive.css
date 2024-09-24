@@ -1722,6 +1722,9 @@
 .main-slider.style4 .layer-outer-image1 {
     display: none;
 } 
+.main-slider.style4 .layer-outer-image2 {
+    display: none;
+} 
 .main-slider.style4 .layer-outer-image2 img {
     opacity: 0.50;
 }
@@ -1786,6 +1789,10 @@
         -ms-flex-order: 1;
         order: 1;
     }  
+
+    .main-slider.style4 .layer-outer-image2 {
+        display: none;
+    } 
     
 }
 
